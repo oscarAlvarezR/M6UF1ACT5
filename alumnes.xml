@@ -1,0 +1,20 @@
+<alumnes>
+  <alumne id="1">
+	<nom>Alex</nom>
+	<cognom1>Grange</cognom1>
+	<cognom2>Borras</cognom2>
+	<notaFinal>5</notaFinal>	
+  </alumne>
+  <alumne id="2">
+	<nom>Nuria</nom>
+	<cognom1>Grange</cognom1>
+	<cognom2>Borras</cognom2>
+	<notaFinal>10</notaFinal>	  
+  </alumne>
+  <alumne id="3">
+	<nom>Fede</nom>
+	<cognom1>Grange</cognom1>
+	<cognom2>Borras</cognom2>
+	<notaFinal>4</notaFinal>	  
+  </alumne>
+</alumnes>
