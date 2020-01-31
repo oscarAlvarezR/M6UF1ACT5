@@ -17,4 +17,10 @@
 	<cognom2>Borras</cognom2>
 	<notaFinal>4</notaFinal>	  
   </alumne>
+  <alumne id ="4">
+	<nom>David</nom>
+	<cognom1>Dalmau</cognom1>
+	<cognom2>Garcia</cognom2>
+	<notaFinal>3</notaFinal>	  
+  </alumne>
 </alumnes>
